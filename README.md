@@ -7,7 +7,8 @@
 
 ### Extraploating the period under review (from Jun-19 to Aug-19) for New York has showed the following:
 
-# There are three main drivers that significantly impact the usage of CitiBikes which are:
-1-Gender
-2-Weather Conditions
-3-Location of Docking Stations
+### There are three main drivers that significantly impact the usage of CitiBikes which are:
+
+* 1-Gender
+* 2-Weather Conditions
+* 3-Location of Docking Stations

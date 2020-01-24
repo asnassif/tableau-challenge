@@ -14,7 +14,9 @@
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+Inline-style: 
+![alt text](https://cdn.vox-cdn.com/thumbor/9xMnoERlzWNChnmhlq3rsdnDfIQ=/0x0:2000x1333/1200x800/filters:focal(808x551:1128x871)/cdn.vox-cdn.com/uploads/chorus_image/image/64744160/170920_14_05_28_5DS_6462.0.jpg)
+
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 

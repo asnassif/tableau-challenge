@@ -16,7 +16,7 @@
 
 
 ## 1- Gender:
-### Note: some users didn't disclose their gender, therefore the unknown gender number was excluded to give more context to the analysis
+### Note: some users didn't disclose their gender, therefore the unknown gender number was excluded to give more context to the analysis and Dashboard vsisualizations
 
 By analysying the users of CitiBike by gender, the ratio of the users who had identified their gender as Male was more than 72% from the total number of users(Male, Femal, and Unknown), while Females were only 23%. This ratio supports what came in some researches that women are less likely than American men to ride bikes in cities. Also the lack of bike lanes is another factor that has significantly impacted women bike riders more than men, at last women don't feel safe carying their bags while biking unless they carry a aback bag.
 

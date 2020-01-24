@@ -7,8 +7,16 @@
 
 ### Extraploating the period under review (from Jun-19 to Aug-19) for New York has showed the following:
 
-### There are three main drivers that significantly impact the usage of CitiBikes which are:
+### There are 4 main drivers that significantly impact the usage of CitiBikes which are:
 
-* 1-Gender
-* 2-Weather Conditions
-* 3-Location of Docking Stations
+* Gender
+* Weather Conditions
+* Location of Docking Stations
+* Tourism
+
+
+## 1- Gender:
+# Note: some users didn't disclose their gender, therefore the unknown gender number was excluded to give more context to the analysis
+
+By analysying the users of CitiBike by gender, the ratio of the users who had identified their gender as Male was more than 72% from the total number of users(Male, Femal, and Unknown), while Females were only 23%. This ratio supports what came in some researches that women are less likely than American men to ride bikes in cities. Also the lack of bike lanes is another factor that has significantly impacted women bike riders more than men, at last women don't feel safe carying their bags while biking unless they carry a aback bag.
+

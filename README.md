@@ -43,7 +43,7 @@ By analyzing the trips made during the period under review, it was found that mo
 
 # Citi Bike Usgae Highlights
 
-## By further analyzing the data, some intersting facts were uncoverd, which may have a dirct impact on the profitability per customer:
+## By further analyzing the data, some intersting facts were uncoverd, which may have a dirct impact profitability per customer, which needs futher analysis and launching marketing campaigns to attract different customer segments:
 
 ### Average Trip Duration (Subscribers + Un-Subscribers):
 

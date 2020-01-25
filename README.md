@@ -95,7 +95,7 @@ By analyzing the trips made during the period under review, it was found that mo
 
 <hr>
 
-# Citi Bike Usgae Highlights
+# Citi Bike Usage Highlights
 
 <hr>
 

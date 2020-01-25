@@ -6,7 +6,7 @@
 
 ### Extraploating the period under review (from Jun-19 to Aug-19) for New York has showed the following:
 
-### There are 4 main drivers that significantly impact the usage of Citi Bike which are:
+### There are 4 main drivers which had significantly impacted the usage of Citi Bike as follows:
 
 * Gender
 * Weather Conditions

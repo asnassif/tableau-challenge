@@ -22,6 +22,8 @@
 
 <hr>
 
+## Note: This dashboard is interactive/responsive dashboard
+
 
 ![snip1](Images/snip1.PNG)
 

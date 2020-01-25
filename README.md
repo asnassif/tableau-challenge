@@ -79,16 +79,16 @@ By analyzing the trips made during the period under review, it was found that mo
 
 ### Average Trip Duration (Subscribers + Un-Subscribers):
 
-* The average Female trip duration was 18.7 minutes, while it was 15.2 minutes for Males
-![snip3](Images/snip3.PNG)
+* The number of Subscribers+Un-Sunscribers consistently decreases during summer time
+![snip2](Images/snip2.PNG)
 
 
 
-* During the period under review the average Female trip duration was approximatelty 19 minutes/trip, while average Male trip duration was constantly declining as the weather gets more hot, i.e in Jun-19 the average trip duration was 16 minutes, while it was 15 minutes in July and August of the same year. This could be due higher speed Male Subscribers+Un-Subscribers maintain during their trips, to avoid being out in the hot weather for a longer time, or they use the Bikes for shorter trips
+* During the period under review the average Female trip duration was approximatelty 19 minutes/trip, while average Male trip duration was constantly declining as the weather gets more hot, i.e in Jun-19 the average trip duration was 16 minutes, while it was 15 minutes in July and August of the same year. This could be due higher speed Male Subscribers+Un-Subscribers maintain during their trips, to avoid being out in the hot weather for a longer time, or they use the Bikes for shorter trips for the same reason, i.e. avoiding the hot weather.
 
 ![snip2](Images/snip2.PNG)
 
-* The highest traffic docking station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan), and on the other hand side the lowest traffic start docking station was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan and Mid-Town and by the Tourists in the same areas as cheper and reliable commute. 
+* The highest traffic Start Docking Station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan), and on the other hand side one of the lowest traffic Start Docking Stations was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan and Mid-Town by Employees working in those areas and Tourists in the same areas as cheper and reliable method to commute. 
 
 ![snip7](Images/snip7.PNG)
 

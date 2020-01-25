@@ -89,7 +89,7 @@ During summer time, CitiBike may need to incentive their Annual or Monthly Subsc
 
 
 
-By analyzing the trips made during the period under review, it was found that most of the trips were originated from docking stations located at Manhattan and Midtown areas. This shows that most of the Subscribers use it to commute back from work in Manahattan specially lower Manhattan and Midtown, while the Non-Subscribers use the bikes in the same areas since these areas have most of the outlets and places that any tourist would be interested in visting in NY such as Wall Street,  World Trade Center and Broadway Theaters,.....etc.
+By analyzing the trips made during the period under review, it was found that most of the trips were originated from docking stations located at Manhattan  and Midtown areas. This shows that most of the Subscribers use it to commute back from work in Manahattan specially lower Manhattan and Midtown, while the Non-Subscribers use the bikes in the same areas since these areas have most of the outlets and places that any tourist would be interested in visting in NY such as Wall Street,  World Trade Center and Broadway Theaters,.....etc.
 
 ![snip7](Images/snip7.PNG)
 
@@ -100,7 +100,7 @@ By analyzing the trips made during the period under review, it was found that mo
 <hr>
 
 
-## By further analyzing the data, some intersting facts were uncoverd, which may have a dirct impact on the profitability per customer, which needs futher analysis and launching marketing campaigns to attract different customer segments:
+## By further analyzing the data, some interesting  facts were uncovered, which may have a direct impact on the profitability per customer, which may need further analysis and launching marketing campaigns to attract different customer segments:
 
 ### Average Trip Duration (Subscribers + Un-Subscribers):
 
@@ -110,12 +110,12 @@ By analyzing the trips made during the period under review, it was found that mo
 
 
 * During the period under review the average Female trip duration was approximatelty 19 minutes/trip, while average Male trip duration was constantly declining as the weather gets more hot, i.e in Jun-19 the average trip duration was 16 minutes, while it was 15 minutes in July and August of the same year. This could be due higher speed Male Subscribers+Un-Subscribers maintain during their trips, to avoid being out in the hot weather for a longer time, or they use the Bikes for shorter trips for the same reason, i.e. avoiding the hot weather.
-Another influcing factor is based on the fact that the first 30 minutes of each ride on a classic Citi Bike are included in the pass price. If the Biker keeps a bike out for longer than 30 minutes at a time, regardless of the type, it's an extra $4 for each additional 15 minutes. So to avoid extra time fees, the Biker would have to keep Her/His rides to 30 minutes each. Take as many rides as S/He want while Her/His pass is active!
+Another influencing  factor is based on the fact that the first 30 minutes of each ride on a classic Citi Bike are included in the pass price. If the Biker keeps a bike out for longer than 30 minutes at a time, regardless of the type, it's an extra $4 for each additional 15 minutes. So to avoid extra time fees, the Biker would have to keep Her/His rides to 30 minutes each. Take as many rides as S/He want while Her/His pass is active!
 
 
 ![snip2](Images/snip2.PNG)
 
-* The highest traffic Start Docking Station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan), and on the other hand side one of the lowest traffic Start Docking Stations was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan and Mid-Town by Employees working in those areas and Tourists in the same areas as cheaper and reliable method to commute. 
+* The highest traffic Start Docking Station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan ), and on the other hand side one of the lowest traffic Start Docking Stations was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan  and Mid-Town by Employees working in those areas and Tourists in the same areas as cheaper and reliable method to commute. 
 
 ![snip6](Images/snip6.PNG)
 

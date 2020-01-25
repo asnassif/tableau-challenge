@@ -19,7 +19,7 @@
 
 
 
-![snip1](images/New York Dashboard (Jun-19 to Aug-19).PNG)
+![New York Dashboard (Jun-19 to Aug-19)](Images/New York Dashboard (Jun-19 to Aug-19).PNG)
 
 
 

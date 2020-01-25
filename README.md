@@ -105,6 +105,8 @@ By analyzing the trips made during the period under review, it was found that mo
 
 
 * During the period under review the average Female trip duration was approximatelty 19 minutes/trip, while average Male trip duration was constantly declining as the weather gets more hot, i.e in Jun-19 the average trip duration was 16 minutes, while it was 15 minutes in July and August of the same year. This could be due higher speed Male Subscribers+Un-Subscribers maintain during their trips, to avoid being out in the hot weather for a longer time, or they use the Bikes for shorter trips for the same reason, i.e. avoiding the hot weather.
+Another influcing factor is based on the fact that the first 30 minutes of each ride on a classic Citi Bike are included in the pass price. If the Biker keeps a bike out for longer than 30 minutes at a time, regardless of the type, it's an extra $4 for each additional 15 minutes. So to avoid extra time fees, the Biker would have to keep Her/His rides to 30 minutes each. Take as many rides as S/He want while Her/His pass is active!
+
 
 ![snip2](Images/snip2.PNG)
 

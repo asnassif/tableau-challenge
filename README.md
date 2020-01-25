@@ -80,7 +80,7 @@ By analyzing the trips made during the period under review, it was found that mo
 ### Average Trip Duration (Subscribers + Un-Subscribers):
 
 * The number of Subscribers+Un-Sunscribers consistently decreases during summer time
-![snip2](Images/snip2.PNG)
+![snip3](Images/snip3.PNG)
 
 
 
@@ -90,7 +90,7 @@ By analyzing the trips made during the period under review, it was found that mo
 
 * The highest traffic Start Docking Station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan), and on the other hand side one of the lowest traffic Start Docking Stations was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan and Mid-Town by Employees working in those areas and Tourists in the same areas as cheper and reliable method to commute. 
 
-![snip7](Images/snip7.PNG)
+![snip6](Images/snip6.PNG)
 
 
 

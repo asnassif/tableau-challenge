@@ -61,6 +61,12 @@ By taking a closer look at the age of Subscribers and Non-Subsribers, it has sho
 
 ## 2-Weather Conditions:
 
+
+
+
+
+
+
 The weather conditions had came in the second place among the factors which had impacted customers' decision to ride bikes during the perioed under review i.e. "summer time". The Analysis had revealed that as the weather gets more hot and humid, the number of Subscribers decrease, this is supported by the fact that the number of Subscribers had stepped down to 1,530 million subscribers in Aug-19 from 1,595 million subscribers in Jun-19, reflecting by that a decrease of 4%.
 The decrease in Subscribers were offset by an increase in Non-Subscribers. The increase in Non-Subscribers had stemmed from an increase in Tourists/Vistors numbers who normally visit New York in the summer time. This is based on the fact that the best time to visit New York City is from April to June and September to early November when the weather is warm and pleasant according to Tourism Agencies and websites recommendations.
 
@@ -69,6 +75,14 @@ The decrease in Subscribers were offset by an increase in Non-Subscribers. The i
 
 
 ## 3- Location of Docking Stations:
+
+
+
+
+
+
+
+
 
 By analyzing the trips made during the period under review, it was found that most of the trips were originated from docking stations located at Manhattan and Midtown areas. This shows that most of the Subscribers use it to commute back from work in Manahattan specially lower Manhattan and Midtown, while the Non-Subscribers use the bikes in the same areas since these areas have most of the outlets and places that any tourist would be interested in visting in NY such as Wall Street,  World Trade Center and Broadway Theaters,.....etc.
 

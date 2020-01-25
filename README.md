@@ -1,5 +1,9 @@
+
+<hr>
+
 # Citi Bike Analytics
 
+<hr>
 
 
 ![alt text](https://cdn.vox-cdn.com/thumbor/9xMnoERlzWNChnmhlq3rsdnDfIQ=/0x0:2000x1333/1200x800/filters:focal(808x551:1128x871)/cdn.vox-cdn.com/uploads/chorus_image/image/64744160/170920_14_05_28_5DS_6462.0.jpg)
@@ -13,18 +17,24 @@
 * Location of Docking Stations
 
 
+![snip1](Images/snip1.PNG)
+
+
+
+
 ### Important Notes: 
 * some users didn't disclose their gender, therefore the unknown gender number was excluded to give more context to the analysis and Dashboard visualizations
 * According to CitiBike website: Subscribers referes to Annual Membership, while Non-Subscribers are Short-term passes which is  perfect for tourists and visitors 
 
 
 
-![snip1](Images/snip1.PNG)
-
-
-
 
 ## 1- Gender and Age:
+
+![snip2](Images/snip2.PNG)
+
+
+
 
 ### A-Gender
 

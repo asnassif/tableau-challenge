@@ -19,7 +19,7 @@
 
 
 
-![snip1](Images/snip1.png)
+![snip1](Images/snip1.PNG)
 
 
 

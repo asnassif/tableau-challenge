@@ -18,6 +18,12 @@
 * According to CitiBike website: Subscribers referes to Annual Membership, while Non-Subscribers are Short-term passes which is  perfect for tourists and visitors 
 
 
+
+![snip1](Images/snip1.png)
+
+
+
+
 ## 1- Gender and Age:
 
 ### A-Gender

@@ -64,7 +64,7 @@ The decrease in Subscribers were offset by an increase in Non-Subscribers. The i
 
 ## 3- Location of Docking Stations:
 
-By analyzing the trips made during the period under review, it was found that most of the trips were originated from docking stations located at Manhattan and Midtown areas. This shows that most of the Subscribers use it to commute back from work in Manahattan specially lower Manhattan and Midtown, while the Non-Subscribers use the bikes in the same areas since these areas have most of the outlets and places that any tourist NY would be interested in visting such as Wall Street,  World Trade Center and Broadway Theaters,.....etc.
+By analyzing the trips made during the period under review, it was found that most of the trips were originated from docking stations located at Manhattan and Midtown areas. This shows that most of the Subscribers use it to commute back from work in Manahattan specially lower Manhattan and Midtown, while the Non-Subscribers use the bikes in the same areas since these areas have most of the outlets and places that any tourist would be interested in visting in NY such as Wall Street,  World Trade Center and Broadway Theaters,.....etc.
 
 ![snip7](Images/snip7.PNG)
 

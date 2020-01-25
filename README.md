@@ -11,7 +11,7 @@
 * Gender and Age
 * Weather Conditions
 * Location of Docking Stations
-* Tourism
+
 
 ### Important Notes: 
 * some users didn't disclose their gender, therefore the unknown gender number was excluded to give more context to the analysis and Dashboard visualizations
@@ -20,11 +20,11 @@
 
 ## 1- Gender and Age:
 
-## A-Gender
+### A-Gender
 
 By breakingdown the customer base of Citi Bike by gender, the ratio of customers who had identified their gender as Male was more than 72% of the total customerbase, while Female customers were only 23%. This ratio supports what came in some researches that women are less likely to feel safe" on a bike than men particularly in an area with lots of car traffic in cities. Also the lack of bike lanes is another factor which has significantly impacted women's decision. Also women don't feel safe carying their bags while biking unless they carry a a back bag.
 
-## B- Age:
+### B- Age:
    
 By taking a closer look at the age of Subscribers and Non-Subsribers, it has showed that the average age of Female Subscribers+Un-Subscribers was 36 years old, while average Male age was 38 years old. The average age could be an indicator that in addition of using the bikes for commute purposes, it could be also for used as a kind of excerise since most people in that age range don't have time to got to the Gym and workout.
 
@@ -36,6 +36,21 @@ The decrease in Subscribers were offset by an increase in Non-Subscribers. The i
 
 ## 3- Location of Docking Stations:
 
-By analyzing the trips made during the period under review had showed that most of the trips were originated from docking stations located at Lower Manhattan and Midtown areas. 
+By analyzing the trips made during the period under review, it was found that most of the trips were originated from docking stations located at Manhattan and Midtown areas. This shows that most of the Subscribers use it to commute back from work in Manahattan specially lower Manhattan and Midtown, while the Non-Subscribers use the bikes in the same areas since these areas have most of the outlets and places that any tourist NY would be interested in visting such as Wall Street,  World Trade Center and Broadway Theaters,.....etc.
+
+
+
+
+# Citi Bike Usgae Highlights
+
+## By further analyzing the data, some intersting facts were uncoverd, which may have a dirct impact on the profitability per customer:
+
+### Average Trip Duration (Subscribers + Un-Subscribers):
+
+* The average Female trip duration was 18.7 minutes, while it was 15.2 minutes for Males
+* During the period under review the average Female trip duration was approximatelty 19 minutes/trip, while average Male trip duration was constantly declining as the weather gets more hot, i.e in Jun-19 the average trip duration was 16 minutes, while it was 15 minutes in July and August of the same year. This could be due higher speed Male Subscribers+Un-Subscribers maintain during their trips, to avoid being out in the hot weather for a longer time, or they use the Bikes for shorter trips
+* The highest traffic docking station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan), and on the other hand side the lowest traffic start docking station was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan and Mid-Town and by the Tourists in the same areas as cheper and reliable commute. 
+
+
 
 

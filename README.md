@@ -46,7 +46,7 @@
 
 ### A-Gender
 
-By breakingdown the customer base of Citi Bike by gender, the ratio of customers who had identified their gender as Male was more than 72% of the total custome rbase, while Female customers were only 23%. This ratio supports what came in some researches that women are less likely to feel safe" on a bike than men particularly in an area with lots of car traffic in cities. Also the lack of bike lanes is another factor which has significantly impacted women's decision. Also women don't feel safe carying their bags while biking unless they carry a a back bag.
+By breakingdown the customer base of Citi Bike by gender, the ratio of customers who had identified their gender as Male was more than 72% of the total customer base, while Female customers were only 23%. This ratio supports what came in some researches that women are less likely to feel safe" on a bike than men particularly in an area with lots of car traffic in cities. Also the lack of bike lanes is another factor which has significantly impacted women's decision. Also women don't feel safe carying their bags while biking unless they carry a a back bag.
 
 
 ![snip4](Images/snip4.PNG)

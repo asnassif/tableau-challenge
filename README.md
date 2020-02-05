@@ -104,7 +104,7 @@ By analyzing the trips made during the period under review, it was found that mo
 
 ## By further analyzing the data, some interesting  facts were uncovered, which may have a direct impact on the profitability per customer, which may need further analysis and launching marketing campaigns to attract different customer segments:
 
-### Average Trip Duration (Subscribers + Un-Subscribers):
+### Customer base breakdown (Subscribers + Un-Subscribers):
 
 * The number of Subscribers+Un-Sunscribers consistently decreases during summer time
 ![snip3](Images/snip3.PNG)

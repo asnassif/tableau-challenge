@@ -47,6 +47,7 @@
 ### A-Gender
 
 By breakingdown the customer base of Citi Bike by gender, the ratio of customers who had identified their gender as Male was more than 72% of the total customer base, while Female customers were only 23%. This ratio supports what came in some researches that women are less likely to feel safe" on a bike than men particularly in an area with lots of car traffic in cities. Also the lack of bike lanes is another factor which has significantly impacted women's decision. Also women don't feel safe carying their bags while biking unless they carry a a back bag.
+CitiBike may need to share the insights about women's preferences with the City of New York, so that the NYC may think of making more bike lasnes if possible as part of its Urban planning, which in the same time could  attract more tourists to New York , and consequently positively impact its GDP.
 
 
 ![snip4](Images/snip4.PNG)
@@ -57,7 +58,7 @@ By breakingdown the customer base of Citi Bike by gender, the ratio of customers
    
 By taking a closer look at the age of Subscribers and Non-Subsribers, it has showed that the average age of Female Subscribers+Un-Subscribers was 36 years old, while average Male age was 38 years old. The average age could be an indicator that in addition of using the bikes for commute purposes, it could be also for used as a kind of excerise since most people in that age range don't have time to go to the Gym and workout.
 To attract different customer segments, CitiBike may need to think about how they can incentify younger and/or older customers.
-Also, maybe CitiBike can sahre women's preferences with the City of New York, so that the NYC may think of making more bike lasnes if possible as part of its Urban planning, which in the same time could  attract more tourists to New York , and consequently positively impact its GDP.
+
 
 
 ![snip8](Images/snip8.PNG)

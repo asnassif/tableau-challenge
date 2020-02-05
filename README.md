@@ -57,7 +57,7 @@ By breakingdown the customer base of Citi Bike by gender, the ratio of customers
    
 By taking a closer look at the age of Subscribers and Non-Subsribers, it has showed that the average age of Female Subscribers+Un-Subscribers was 36 years old, while average Male age was 38 years old. The average age could be an indicator that in addition of using the bikes for commute purposes, it could be also for used as a kind of excerise since most people in that age range don't have time to go to the Gym and workout.
 To attract different customer segments, CitiBike may need to think about how they can incentify younger and/or older customers.
-Also, maybe CitiBike can sahre women's preferences with the City of New York, so that the NYC may think of making more bike lasnes if possible as part of its Urban planning, which in the same time could  attract more tourists to New York , which will consequently positively impact its GDP.
+Also, maybe CitiBike can sahre women's preferences with the City of New York, so that the NYC may think of making more bike lasnes if possible as part of its Urban planning, which in the same time could  attract more tourists to New York , and consequently positively impact its GDP.
 
 
 ![snip8](Images/snip8.PNG)

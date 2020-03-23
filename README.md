@@ -117,7 +117,7 @@ Another influencing  factor is based on the fact that the first 30 minutes of ea
 
 ![snip2](Images/snip2.PNG)
 
-* The highest traffic Start Docking Station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan ), and on the other hand side one of the lowest traffic Start Docking Stations was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan  and Mid-Town by Employees working in those areas and Tourists in the same areas as cheaper and reliable method to commute. 
+* The highest traffic Start Docking Station was located at Liberty St & South End Ave, New York, NY 10080 (Lower Manhattan ), and on the other hand side one of the lowest traffic Start Docking Stations was located at Front St & Jay St at Brooklyn. This fact supports the idea that Citi Bikes are mostly used to commute from Manhattan  and Mid-Town by Employees working in those areas and Tourists in the same areas as cheaper and reliable method to commute.
 
 ![snip6](Images/snip6.PNG)
 
